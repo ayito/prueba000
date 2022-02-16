@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.2",
+  "appInfo": {
+    "name": "prueba000",
+    "description": "Sample application for e-commerce - prueba000",
+    "version": "o44qooh4",
+    "id": "ckznvcy4s86886101s6za6ngn5p",
+    "url": "https://app.amplication.com/ckznvcy4s86886101s6za6ngn5p",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "prueba000",
+      "dbPassword": "prueba000",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckznvcy4s86886101s6za6ngn5p",
+      "authProvider": "Jwt"
+    }
+  }
+}
